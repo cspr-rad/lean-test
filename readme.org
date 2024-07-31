@@ -1,0 +1,3 @@
+#+TITLE: LeanTest
+
+inspired by ~pytest~, ~cargo test~
